@@ -1,5 +1,7 @@
 // Base class for all robots
 
+
+
 public abstract class Robot
 {
     public string Name { get; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\RoboticsApp\\RoboticsApp.csproj": {}
+    "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\roboticsApp\\roboticsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\RoboticsApp\\RoboticsApp.csproj": {
+    "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\roboticsApp\\roboticsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\RoboticsApp\\RoboticsApp.csproj",
-        "projectName": "RoboticsApp",
-        "projectPath": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\RoboticsApp\\RoboticsApp.csproj",
+        "projectUniqueName": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\roboticsApp\\roboticsApp.csproj",
+        "projectName": "roboticsApp",
+        "projectPath": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\roboticsApp\\roboticsApp.csproj",
         "packagesPath": "C:\\Users\\Dhruvi Gangurde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\RoboticsApp\\obj\\",
+        "outputPath": "C:\\Users\\Dhruvi Gangurde\\robotics-challenge-solution\\roboticsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhruvi Gangurde\\AppData\\Roaming\\NuGet\\NuGet.Config"
