@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboticsApp", "RoboticsApp\RoboticsApp.csproj", "{925A4407-D0F3-49CF-8B9F-E098305E3172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboticsChallenge.Tests", "RoboticsChallenge.Tests\RoboticsChallenge.Tests.csproj", "{1426F32A-9CC6-463C-A402-ECEF8018E4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925A4407-D0F3-49CF-8B9F-E098305E3172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925A4407-D0F3-49CF-8B9F-E098305E3172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925A4407-D0F3-49CF-8B9F-E098305E3172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925A4407-D0F3-49CF-8B9F-E098305E3172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1426F32A-9CC6-463C-A402-ECEF8018E4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1426F32A-9CC6-463C-A402-ECEF8018E4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1426F32A-9CC6-463C-A402-ECEF8018E4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1426F32A-9CC6-463C-A402-ECEF8018E4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

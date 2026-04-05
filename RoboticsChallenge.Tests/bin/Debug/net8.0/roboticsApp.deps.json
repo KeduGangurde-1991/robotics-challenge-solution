@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "roboticsApp/1.0.0": {
+      "RoboticsApp/1.0.0": {
         "runtime": {
-          "roboticsApp.dll": {}
+          "RoboticsApp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "roboticsApp/1.0.0": {
+    "RoboticsApp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
