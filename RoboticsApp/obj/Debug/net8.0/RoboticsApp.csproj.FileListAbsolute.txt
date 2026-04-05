@@ -1,0 +1,15 @@
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\bin\Debug\net8.0\RoboticsApp.exe
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\bin\Debug\net8.0\RoboticsApp.deps.json
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\bin\Debug\net8.0\RoboticsApp.runtimeconfig.json
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\bin\Debug\net8.0\RoboticsApp.dll
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\bin\Debug\net8.0\RoboticsApp.pdb
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.AssemblyInfoInputs.cache
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.AssemblyInfo.cs
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.sourcelink.json
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.dll
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\refint\RoboticsApp.dll
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.pdb
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\RoboticsApp.genruntimeconfig.cache
+C:\Users\Dhruvi Gangurde\robotics-challenge-solution\RoboticsApp\obj\Debug\net8.0\ref\RoboticsApp.dll
